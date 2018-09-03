@@ -19,6 +19,8 @@ sistema di design condiviso.
    Esempio di home page del sito di una scuola, nella versione
    desktop (sinistra) e mobile (destra).
 
+:ref:`copia link <hp-hifi>`
+
 La progettazione delle pagine è *responsive*, *mobile-first* e a moduli, a
 cominciare dalla *home page* (vedi :numref:`Figura %s <hp-hifi>`). L'uso dei
 colori nella carta d'identità della scuola permette di individuare facilmente
@@ -26,9 +28,6 @@ le quattro aree del sito. L'approccio è narrativo/redazionale per la sezione di
 racconto della scuola. L'uso di infografiche e la narrazione visiva aiutano,
 invece, a evidenziare numeri e dati, laddove disponibili (vedi 
 la :numref:`Figura %s <hp-2>`).
-
-|Prototipo hi-fi del sito delle scuole. Mobile e desktop,
-rispettivamente.|
 
 .. figure:: .././media/image10.png
    :width: 2.90268in
@@ -38,6 +37,8 @@ rispettivamente.|
 
    Prototipo hi-fi del sito delle scuole (carta d'identità della
    scuola). A sinistra la versione mobile, a destra la versione desktop.
+
+:ref:`copia link <hp-2>`
 
 L'impostazione del progetto di design comincia dal branding, con una
 barra di navigazione e degli header universali. Da qui è possibile
@@ -59,6 +60,8 @@ branding e menu di navigazione nella versione mobile.
    Branding, menu di navigazione e menu dopo il login per
    mobile, nelle versioni per una scuola e per un istituto comprensivo.
 
+:ref:`copia link <branding>`
+
 Un sistema di indice di pagina permette di scorrere velocemente tra i
 paragrafi delle lunghe schede: l'idea è quella di semplificare la
 lettura dei contenuti il più possibile (vedi la :numref:`Figura %s <servizi>`).
@@ -71,6 +74,8 @@ lettura dei contenuti il più possibile (vedi la :numref:`Figura %s <servizi>`).
 
    Pagina di descrizione dei servizi con un indice delle sezioni
    per semplificare la navigazione, nella versione desktop e mobile.
+
+:ref:`copia link <servizi>`
 
 Esplora il `prototipo hi-fi del sito delle scuole <#>`__.
 
