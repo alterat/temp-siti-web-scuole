@@ -9,7 +9,7 @@ italiani (di cui 3 paritari) e 5 europei (vedi la :numref:`Tabella %s <scuole-it
 e la :numref:`Tabella %s <scuole-estero>`).
 
 .. table:: Lista delle scuole italiane prese in considerazione nella fase di benchmarking.
-   name: scuole-italia
+   :name: scuole-italia
 
    +----------------------------------------------+--------------------------+
    | **Scuola**                                   | **Città**                |
@@ -39,7 +39,7 @@ e la :numref:`Tabella %s <scuole-estero>`).
 
 
 .. table:: Lista delle scuole europee prese in considerazione nella fase di benchmarking.
-   name: scuole-estero
+   :name: scuole-estero
 
    +-----------------------------------+---------------+
    | **Scuola**                        | **Città**     |
