@@ -17,18 +17,6 @@ persone, con tre diverse modalità:
 
 3. co-design workshop.
 
-interviste individuali;
-
-interviste individuali;
-
-focus group;
-
-focus group;
-
-co-design workshop.
-
-co-design workshop.
-
 Ciò ha permesso di dividere il campione di persone in gruppi, in base a
 
 -  genere;
@@ -41,77 +29,31 @@ Ciò ha permesso di dividere il campione di persone in gruppi, in base a
 
 -  zona di provenienza.
 
-genere;
+.. admonition:: deepening
+   :class: admonition-deepening admonition-display-page name-deepening
+   :name: approfondimento
 
-genere;
+**Il campione preso in esame**                                         
+                                                                  
+**GENERE:**                                                           
+n. 27 uomini;                                                         
+n. 50 donne;                                                          
+n. 00 altro.                                                          
+                                                                      
+**ETÀ:**                                                              
+n. 4 docenti < 10 anni di esperienza;                                 
+n. 15 docenti > 10 anni di esperienza;                                
+n. 2 personale tecnico-amministrativo < 10 anni di esperienza;        
+n. 16 personale tecnico-amministrativo > 10 anni di esperienza;       
+n. 22 studenti tra i 15 e i 18 anni;                                  
+n. 18 genitori > 40 anni.                                             
+                                                                      
+**UTILIZZO DELLA TECNOLOGIA:**                                        
+n. 16 base (es. usa smartphone solo per comunicazione);               
+n. 23 autonomo (es. usa web/app per accedere a servizi);              
+n. 38 avanzato (es. il proprio lavoro si basa su strumenti digitali). 
 
-età;
-
-età;
-
-ruolo nella scuola;
-
-ruolo nella scuola;
-
-uso della tecnologia;
-
-uso della tecnologia;
-
-zona di provenienza.
-
-zona di provenienza.
-
-+-------------------------------------------------------------------------+
-| **Per approfondire**                                                    |
-|                                                                         |
-| **Il campione preso in esame**                                          |
-|                                                                         |
-| | **GENERE:**                                                           |
-| | n. 27 uomini;                                                         |
-| | n. 50 donne;                                                          |
-| | n. 00 altro.                                                          |
-|                                                                         |
-| | **ETÀ:**                                                              |
-| | n. 4 docenti < 10 anni di esperienza;                                 |
-|                                                                         |
-| | n. 15 docenti > 10 anni di esperienza;                                |
-| | n. 2 personale tecnico-amministrativo < 10 anni di esperienza;        |
-|                                                                         |
-| | n. 16 personale tecnico-amministrativo > 10 anni di esperienza;       |
-| | n. 22 studenti tra i 15 e i 18 anni;                                  |
-| | n. 18 genitori > 40 anni.                                             |
-|                                                                         |
-| | **UTILIZZO DELLA TECNOLOGIA:**                                        |
-| | n. 16 base (es. usa smartphone solo per comunicazione);               |
-| | n. 23 autonomo (es. usa web/app per accedere a servizi);              |
-| | n. 38 avanzato (es. il proprio lavoro si basa su strumenti digitali). |
-+-------------------------------------------------------------------------+
-
-**Per approfondire**
-
-**Il campione preso in esame**
-
-| **GENERE:**
-| n. 27 uomini;
-| n. 50 donne;
-| n. 00 altro.
-
-| **ETÀ:**
-| n. 4 docenti < 10 anni di esperienza;
-
-| n. 15 docenti > 10 anni di esperienza;
-| n. 2 personale tecnico-amministrativo < 10 anni di esperienza;
-
-| n. 16 personale tecnico-amministrativo > 10 anni di esperienza;
-| n. 22 studenti tra i 15 e i 18 anni;
-| n. 18 genitori > 40 anni.
-
-| **UTILIZZO DELLA TECNOLOGIA:**
-| n. 16 base (es. usa smartphone solo per comunicazione);
-| n. 23 autonomo (es. usa web/app per accedere a servizi);
-| n. 38 avanzato (es. il proprio lavoro si basa su strumenti digitali).
-
-Maggiori informazioni sulle i `metodologie e sui risultati ottenuti
+Maggiori informazioni sulle `metodologie e sui risultati ottenuti
 durante la fase di
 ricerca <https://docs.google.com/presentation/d/1lelBDDv-VyqK6WE7GLnFp7K0PgZaSxJmMpPoTOp5txw/edit?usp=sharing>`__.
 
@@ -141,42 +83,6 @@ intervistati fanno parte delle seguenti categorie:
 -  animatori digitali;
 
 -  associazioni (Porte aperte sul web).
-
-Miur;
-
-Miur;
-
-Team per la Trasformazione Digitale e AGID;
-
-Team per la Trasformazione Digitale e AGID;
-
-software house (registri elettronici e altri applicativi);
-
-software house (registri elettronici e altri applicativi);
-
-personale tecnico amministrativo;
-
-personale tecnico amministrativo;
-
-studenti;
-
-studenti;
-
-dirigenti scolastici;
-
-dirigenti scolastici;
-
-insegnanti;
-
-insegnanti;
-
-animatori digitali;
-
-animatori digitali;
-
-associazioni (Porte aperte sul web).
-
-associazioni (Porte aperte sul web).
 
 Abbiamo realizzato 12 interviste individuali con dei rappresentanti per
 ciascuna di queste categorie. Ogni intervista è durata tra i 40 e i 60
