@@ -32,28 +32,28 @@ conclusioni di questa fase sono le seguenti:
    Nel corso della ricerca, sono emerse le seguenti **considerazioni     
    riguardo ai servizi digitali della scuola**.                          
                                                                          
-   1. I **siti web** soffrono l'assenza di uno standard. Le scuole       
+   -  I **siti web** soffrono l'assenza di uno standard. Le scuole       
       devono *reinventare la ruota* ogni volta a livello tecnologico e   
       di design.                                                         
                                                                          
-   2. **Scuola in chiaro** è un modello ibrido: in parte tentativo di    
+   -  **Scuola in chiaro** è un modello ibrido: in parte tentativo di    
       sostituzione dei siti scolastici, in parte tentativo di favorire   
       il confronto tra scuole (funzioni da comparatore). È quindi        
       necessario mettere a fuoco la sua funzione ed evitare la           
       duplicazione di contenuti tra siti e scuola.                       
                                                                          
-   3. La digitalizzazione del servizio di **iscrizione a scuola** è un   
+   -  La digitalizzazione del servizio di **iscrizione a scuola** è un   
       fattore positivo riconosciuto dalle famiglie, nonostante           
       rallentamenti e problematiche tecniche si verifichino ogni anno in 
       occasione del periodo delle iscrizioni. Esiste, inoltre, una       
       grande variabilità nel processo di iscrizione che spesso comporta  
       la necessità di perfezionare l'iscrizione presso l'istituto.       
                                                                          
-   4. I **registri elettronici** offrono funzioni molto utili, in        
+   -  I **registri elettronici** offrono funzioni molto utili, in        
       particolare il controllo dei voti, delle note e delle pagelle e in 
       secondo luogo il registro delle attività di classe. È auspicabile  
       migliorare l'integrazione con i siti scolastici e rispettare le    
       linee guida di design.                                             
                                                                          
-   5. **Io studio** è un prodotto da ripensare in relazione con SPID.    
+   -  **Io studio** è un prodotto da ripensare in relazione con SPID.    
 
