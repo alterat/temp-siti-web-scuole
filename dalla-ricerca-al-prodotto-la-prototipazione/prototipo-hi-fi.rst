@@ -31,7 +31,6 @@ la :numref:`Figura %s <hp-2>`).
 
 .. figure:: .././media/image10.png
    :width: 2.90268in
-   :height: 4.73438in
    :alt: Home page di secondo livello
    :name: hp-2
 
