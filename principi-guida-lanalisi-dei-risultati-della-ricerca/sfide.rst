@@ -12,17 +12,6 @@ modello di sito delle scuole riguardano:
 
 3. la creazione di nuovi servizi.
 
-la semplificazione dei servizi esistenti;
-
-la semplificazione dei servizi esistenti;
-
-l'integrazione fra servizi diversi;
-
-l'integrazione fra servizi diversi;
-
-la creazione di nuovi servizi.
-
-la creazione di nuovi servizi.
 
 .. _semplificare:
 
@@ -41,20 +30,9 @@ Anche la ricerca quantitativa evidenzia che:
 -  l'usabilità e la esperienza d'uso sono sicuramente il punto debole
    più evidente di siti e registri.
 
-il *mobile* deve essere centrale nella gestione e nell'uso di ogni
-servizio dedicato alla scuola;
 
-il *mobile* deve essere centrale nella gestione e nell'uso di ogni
-servizio dedicato alla scuola;
-
-l'usabilità e la esperienza d'uso sono sicuramente il punto debole più
-evidente di siti e registri.
-
-l'usabilità e la esperienza d'uso sono sicuramente il punto debole più
-evidente di siti e registri.
-
-Questo progetto dà risposte concrete a questa sfida già nella
-:ref:`possibile-scenario-di-evoluzione-del-prototipo-ipotesi-di-lavoro`.
+Questo progetto dà risposte concrete a questa sfida già 
+nella :ref:`fase 1 <possibile-scenario-di-evoluzione-del-prototipo-ipotesi-di-lavoro>`.
 
 .. _integrare:
 
@@ -69,18 +47,6 @@ utilità:
 -  registro di classe
 
 -  gestione degli ingressi e delle uscite.
-
-voti, note e pagelle
-
-voti, note e pagelle
-
-registro di classe
-
-registro di classe
-
-gestione degli ingressi e delle uscite.
-
-gestione degli ingressi e delle uscite.
 
 I voti e il registro di classe sono molto apprezzati, come confermato
 dalla ricerca quantitativa, ma devono essere migliorati. In particolare,
