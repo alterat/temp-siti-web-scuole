@@ -35,23 +35,26 @@ Ciò ha permesso di dividere il campione di persone in gruppi, in base a
 
    **Il campione preso in esame**                                         
                                                                      
-   **GENERE:**                                                           
-   n. 27 uomini;                                                         
-   n. 50 donne;                                                          
-   n. 00 altro.                                                          
+   **GENERE:** 
+
+   - n\. 27 uomini;                                                         
+   - n\. 50 donne;                                                          
+   - n\. 00 altro.                                                          
                                                                          
-   **ETÀ:**                                                              
-   n. 4 docenti < 10 anni di esperienza;                                 
-   n. 15 docenti > 10 anni di esperienza;                                
-   n. 2 personale tecnico-amministrativo < 10 anni di esperienza;        
-   n. 16 personale tecnico-amministrativo > 10 anni di esperienza;       
-   n. 22 studenti tra i 15 e i 18 anni;                                  
-   n. 18 genitori > 40 anni.                                             
+   **ETÀ:**
+
+   - n\. 4 docenti < 10 anni di esperienza;                                 
+   - n\. 15 docenti > 10 anni di esperienza;                                
+   - n\. 2 personale tecnico-amministrativo < 10 anni di esperienza;        
+   - n\. 16 personale tecnico-amministrativo > 10 anni di esperienza;       
+   - n\. 22 studenti tra i 15 e i 18 anni;                                  
+   - n\. 18 genitori > 40 anni.                                             
                                                                          
-   **UTILIZZO DELLA TECNOLOGIA:**                                        
-   n. 16 base (es. usa smartphone solo per comunicazione);               
-   n. 23 autonomo (es. usa web/app per accedere a servizi);              
-   n. 38 avanzato (es. il proprio lavoro si basa su strumenti digitali). 
+   **UTILIZZO DELLA TECNOLOGIA:**
+
+   - n\. 16 base (es. usa smartphone solo per comunicazione);               
+   - n\. 23 autonomo (es. usa web/app per accedere a servizi);              
+   - n\. 38 avanzato (es. il proprio lavoro si basa su strumenti digitali). 
 
 Maggiori informazioni sulle `metodologie e sui risultati ottenuti
 durante la fase di
