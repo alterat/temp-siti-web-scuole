@@ -10,10 +10,9 @@ Progetto siti web delle scuole
    contiene tutti i riferimenti ai documenti più importanti relativi al
    progetto.
 
-Product owner: Team per la Trasformazione digitale + Ministero
-dell'istruzione, dell'università e della ricerca
+:Product owner: Team per la Trasformazione digitale + Ministero dell'istruzione, dell'università e della ricerca
 
-Project manager: Lorenzo Fabbri
+:Project manager: Lorenzo Fabbri
 
 .. toctree::
    :maxdepth: 3
