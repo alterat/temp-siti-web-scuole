@@ -12,6 +12,8 @@ Progetto siti web delle scuole
 
 :Product owner: Team per la Trasformazione digitale + Ministero dell'istruzione, dell'università e della ricerca
 
+|
+
 :Project manager: Lorenzo Fabbri
 
 .. toctree::
