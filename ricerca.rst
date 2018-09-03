@@ -13,20 +13,8 @@ operative.
 
 3. Ricerca quantitativa.
 
-Desk research, benchmarking e interviste agli stakeholders.
-
-Desk research, benchmarking e interviste agli stakeholders.
-
-Ricerca qualitativa.
-
-Ricerca qualitativa.
-
-Ricerca quantitativa.
-
-Ricerca quantitativa.
-
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    ricerca/desk-research.rst
    ricerca/benchmarking.rst
