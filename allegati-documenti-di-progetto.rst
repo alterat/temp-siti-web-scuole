@@ -3,116 +3,82 @@
 Allegati: documenti di progetto
 ===============================
 
-+-----------------------+-------------+----------------------+
-| Titolo                | Tipo        | Link                 |
-+=======================+=============+======================+
-| Design siti scuole:   | Slides      | https://docs.google.c|
-| sintesi del progetto  |             | om/presentation/d/1Rc|
-|                       |             | N3BOTEAD8qxEREjXEHC3D|
-|                       |             | Zl0JmRBDOdJ_EaWayqOw/|
-|                       |             | edit?usp=sharing     |
-+-----------------------+-------------+----------------------+
-| Thread ufficiale su   | Forum       | https://forum.italia.|
-| Forum Italia          |             | it/t/design-dei-servi|
-|                       |             | zi-digitali-delle-scu|
-|                       |             | ole-ricerca-sugli-ute|
-|                       |             | nti-prototipazione-e-|
-|                       |             | linee-guida-progettua|
-|                       |             | li/4100              |
-+-----------------------+-------------+----------------------+
-| Capitolato di gara    | GDoc        | https://docs.google.c|
-|                       |             | om/document/d/13GmEfC|
-|                       |             | G7R-mFN71iiHaVxGvpiy4|
-|                       |             | FhRlgRoNJFeL-HMs/edit|
-+-----------------------+-------------+----------------------+
-| Offerta LCD e BSD     | Pdf         | https://drive.google.|
-|                       |             | com/file/d/1nnhJGd_qD|
-|                       |             | -A97Varw9gMiVN20AKs2y|
-|                       |             | mW/view?usp=sharing  |
-+-----------------------+-------------+----------------------+
-| Summary               | GDoc        | In lavorazione       |
-| report \_ Ricerca     |             |                      |
-| desk e analisi        |             |                      |
-| stakeholder           |             |                      |
-+-----------------------+-------------+----------------------+
-| Report ricerca        | Slides      | https://docs.google.c|
-| qualitativa           |             | om/presentation/d/1le|
-|                       |             | lBDDv-VyqK6WE7GLnFp7K|
-|                       |             | 0PgZaSxJmMpPoTOp5txw/|
-|                       |             | edit?usp=sharing     |
-+-----------------------+-------------+----------------------+
-| Report ricerca        | Slides      | https://docs.google.c|
-| quantitativa          |             | om/presentation/d/1VL|
-|                       |             | F0QwVGFba7XQppWjdjh2c|
-|                       |             | xDAq0_19XnTurXegilDA/|
-|                       |             | edit?usp=sharing     |
-+-----------------------+-------------+----------------------+
-| Architettura          | Spreadsheet | In lavorazione       |
-| informazione:         |             |                      |
-| navigation tree       |             |                      |
-+-----------------------+-------------+----------------------+
-| Architettura          | Spreadsheet | https://docs.google.c|
-| informazione:         |             | om/spreadsheets/d/1dq|
-| classificazione       |             | -xtqBCxUDn6CqTu4uT242|
-| contenuti             |             | UiinP3O2BtGUwAbt2JfE/|
-|                       |             | edit?usp=sharing     |
-+-----------------------+-------------+----------------------+
-| Scenari               | Spreadsheet | https://docs.google.c|
-|                       |             | om/spreadsheets/d/1s9|
-|                       |             | 1eLTAsdy3F5t_3LtQNyCz|
-|                       |             | IYiSf7KjyOz5awDJs3v0/|
-|                       |             | edit?usp=sharing     |
-+-----------------------+-------------+----------------------+
-| Prototipi lo-fi       | Sketch      | Scenari Desktop:     |
-|                       |             |                      |
-|                       |             | https://invis.io/KPL5|
-|                       |             | VAUR2DV              |
-|                       |             |                      |
-|                       |             | Scenari Mobile:      |
-|                       |             |                      |
-|                       |             | https://invis.io/2BN0|
-|                       |             | 5NVHDXK              |
-|                       |             |                      |
-|                       |             | Completo Mobile:     |
-|                       |             |                      |
-|                       |             | https://invis.io/SNL5|
-|                       |             | W31PKAD#/316836055_In|
-|                       |             | dice                 |
-|                       |             |                      |
-|                       |             | Solo area personale  |
-|                       |             | completa Desktop:    |
-|                       |             |                      |
-|                       |             | https://invis.io/9ML6|
-|                       |             | 1BP8QRU#/313266484_AP|
-|                       |             | _NEW_Indice_D        |
-+-----------------------+-------------+----------------------+
-| Prototipi hi-fi       | Sketch      | In lavorazione       |
-|                       |             |                      |
-|                       |             |                      |
-+-----------------------+-------------+----------------------+
-| Principi guida per il | Slides      | https://docs.google.c|
-| modello siti delle    |             | om/presentation/d/1Pt|
-| scuole                |             | R-mSGco0LoE_edi8JRFio|
-|                       |             | xTqfmWZiwbYcl8aO7ie0/|
-|                       |             | edit?usp=sharing     |
-|                       |             |                      |
-|                       |             |                      |
-|                       |             |                      |
-|                       |             |                      |
-|                       |             |                      |
-|                       |             |                      |
-+-----------------------+-------------+----------------------+
-| Personas              | Slides      | https://docs.google.c|
-|                       |             | om/presentation/d/1OJ|
-|                       |             | zrR2DeogrNP1x-EQsNXaA|
-|                       |             | wkTCQVhWwJT1ds5SY2JA/|
-|                       |             | edit?usp=sharing     |
-+-----------------------+-------------+----------------------+
-| Presentazione         | Slides      | https://docs.google.c|
-| generale dei          |             | om/presentation/d/1Rc|
-| risultati (webinar)   |             | N3BOTEAD8qxEREjXEHC3D|
-|                       |             | Zl0JmRBDOdJ_EaWayqOw/|
-|                       |             | edit#slide=id.g3dc098|
-|                       |             | a6ad_5_132           |
-+-----------------------+-------------+----------------------+
+La tabella seguente raccoglie tutti i documenti relativi al progetto, partendo
+dal bando di gara fino ai più recenti prototipi.
 
+
+.. list-table:: I documenti di progetto
+   :widths: 15 10 30
+   :header-rows: 1
+
+   * - Titolo
+     - Tipo file
+     - Collegamento
+   
+   * - Design siti scuole: sintesi de progetto
+     - Google Slides
+     - `Vai al documento <https://docs.google.com/presentation/d/1RcN3BOTEAD8qxEREjXEHC3DZl0JmRBDOdJ_EaWayqOw/edit?usp=sharing>`_
+
+   * - Discussione su Forum Italia
+     - Forum
+     - `Vai alla discussione <https://forum.italia.it/t/design-dei-servizi-digitali-delle-scuole-ricerca-sugli-utenti-prototipazione-e-linee-guida-progettuali/4100 >`_
+
+   * - Capitolato di gara
+     - Google Doc
+     - `Vai al documento <https://docs.google.com/document/d/13GmEfCG7R-mFN71iiHaVxGvpiy4FhRlgRoNJFeL-HMs/edit>`_
+   
+   * - Offerta LCD e BSD
+     - Pdf
+     - `Vai al documento <https://drive.google.com/file/d/1nnhJGd_qD-A97Varw9gMiVN20AKs2ymW/view?usp=sharing>`_
+
+   * - Summary report: Ricerca desk e analisi stakeholder
+     - Google Doc
+     - In lavorazione
+
+   * - Report ricerca qualitativa
+     - Google Slides
+     - `Vai al documento <https://docs.google.com/presentation/d/1lelBDDv-VyqK6WE7GLnFp7K0PgZaSxJmMpPoTOp5txw/edit?usp=sharing>`_
+
+   * - Report ricerca quantitativa
+     - Google Slides
+     - `Vai al documento <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDAq0_19XnTurXegilDA/edit?usp=sharing>`_
+
+   * - Architettura dell'informazione: navigation tree
+     - Foglio di lavoro
+     - In lavorazione
+
+   * - Architettura dell'informazione: classificazione dei contenuti
+     - Foglio di lavoro
+     - `Vai al documento <https://docs.google.com/spreadsheets/d/1dq-xtqBCxUDn6CqTu4uT242UiinP3O2BtGUwAbt2JfE/edit?usp=sharing>`_
+
+   * - Scenari
+     - Foglio di lavoro
+     - `Vai al documento <https://docs.google.com/spreadsheets/d/1s91eLTAsdy3F5t_3LtQNyCzIYiSf7KjyOz5awDJs3v0/edit?usp=sharing>`_
+
+   * - Prototipo lo-fi
+     - Sketch
+     - `Scenari desktop <https://invis.io/KPL5VAUR2DV>`_
+
+       `Scenari mobile <https://invis.io/2BN05NVHDXK>`_
+
+       `Scenario completo mobile <https://invis.io/SNL5W31PKAD#/316836055_Indice>`_
+
+       `Area personale completa desktop <https://invis.io/9ML61BP8QRU#/313266484_AP_NEW_Indice_D>`_
+
+   * - Prototipi hi-fi
+     - Sketch
+     - `Concept <https://invis.io/6DL5WA43QPX>`_
+
+       `Sviluppo del prototipo <https://projects.invisionapp.com/d/main#/projects/prototypes/14604678>`_
+
+   * - Principi guida per il modello di siti delle scuole
+     - Google Slides
+     - In lavorazione
+
+   * - Personas
+     - Google Slides
+     - `Vai al documento <https://docs.google.com/presentation/d/1OJzrR2DeogrNP1x-EQsNXaAwkTCQVhWwJT1ds5SY2JA/edit?usp=sharing>`_
+
+   * - Presentazione generale dei risultati (webinar)
+     - Google Slides
+     - `Vai al documento <https://docs.google.com/presentation/d/1RcN3BOTEAD8qxEREjXEHC3DZl0JmRBDOdJ_EaWayqOw/edit#slide=id.g3dc098a6ad_5_132>`_
