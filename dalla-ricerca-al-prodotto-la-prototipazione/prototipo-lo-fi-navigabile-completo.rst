@@ -19,6 +19,10 @@ e sono disponibili a questi indirizzi:
 -  `lato
    mobile <https://projects.invisionapp.com/share/2BN05NVHDXK#/screens>`__.
 
+È disponibile anche un `prototipo lo-fi completo
+<https://invis.io/SNL5W31PKAD#/316836055_Indice>`_, navigabile sia nell'area
+pubblica che nell'area privata. 
+
 .. table:: Link ai prototipi lo-fi per i diversi scenari d'uso.
    :name: prototipi-lofi
 
