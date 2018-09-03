@@ -29,26 +29,6 @@ fondamentali del sito che servono a questo scopo:
 
 -  Raccolta di feedback
 
-La vita della scuola (diario e notizie)
-
-La vita della scuola (diario e notizie)
-
-La scuola e il territorio
-
-La scuola e il territorio
-
-Gli spazi della scuola
-
-Gli spazi della scuola
-
-Open day
-
-Open day
-
-Raccolta di feedback
-
-Raccolta di feedback
-
 .. _informazione:
 
 Informazione
@@ -69,26 +49,6 @@ A questo scopo, è necessario che il sito preveda dei moduli per:
 -  **Comunicare informazioni sulla didattica**, integrando il registro
    elettronico con la possibilità di visualizzare voti e comunicazioni
    scuola-famiglia.
-
-**Creare e visualizzare le circolari**, con funzioni di filtro,
-preferiti e presa visione.
-
-**Creare e visualizzare le circolari**, con funzioni di filtro,
-preferiti e presa visione.
-
-**Gestire il calendario e le scadenze**, con funzioni di inserimento di
-nuovi eventi e promemoria per scadenze importanti.
-
-**Gestire il calendario e le scadenze**, con funzioni di inserimento di
-nuovi eventi e promemoria per scadenze importanti.
-
-**Comunicare informazioni sulla didattica**, integrando il registro
-elettronico con la possibilità di visualizzare voti e comunicazioni
-scuola-famiglia.
-
-**Comunicare informazioni sulla didattica**, integrando il registro
-elettronico con la possibilità di visualizzare voti e comunicazioni
-scuola-famiglia.
 
 .. _servizi:
 
@@ -125,38 +85,6 @@ tipiche di questo ambito sono, per esempio:
 
 -  orientamento scolastico e alternanza scuola/lavoro;
 
-prenotazione dei colloqui con docenti;
-
-prenotazione dei colloqui con docenti;
-
-compilazione e invio di deleghe;
-
-compilazione e invio di deleghe;
-
-calendario/diario di classe e richiesta di una giustificazione;
-
-calendario/diario di classe e richiesta di una giustificazione;
-
-libri di testo e zaino digitale;
-
-libri di testo e zaino digitale;
-
-biblioteca;
-
-biblioteca;
-
-corsi recupero;
-
-corsi recupero;
-
-controllo dell'andamento scolastico;
-
-controllo dell'andamento scolastico;
-
-orientamento scolastico e alternanza scuola/lavoro;
-
-orientamento scolastico e alternanza scuola/lavoro;
-
 C'è poi l'importante tema della **prenotazione di servizi e dei relativi
 pagamenti**. In questo caso, è possibile sfruttare l'integrazione con le
 piattaforme abilitanti (SPID e pagoPA). Ecco alcuni dei casi d'uso
@@ -169,22 +97,6 @@ tipici.
 -  Prenotazione del servizio di mensa (pagoPA).
 
 -  Richiesta di convenzioni e agevolazioni.
-
-Iscrizione del figlio alla scuola scelta (SPID).
-
-Iscrizione del figlio alla scuola scelta (SPID).
-
-Prenotazione del servizio di trasporto (pagoPA).
-
-Prenotazione del servizio di trasporto (pagoPA).
-
-Prenotazione del servizio di mensa (pagoPA).
-
-Prenotazione del servizio di mensa (pagoPA).
-
-Richiesta di convenzioni e agevolazioni.
-
-Richiesta di convenzioni e agevolazioni.
 
 Dal punto di vista dei docenti, anche l'assegnazione di incarichi (per
 esempio di supplenza) e la formazione possono essere gestiti attraverso
@@ -211,20 +123,6 @@ particolare:
 
 -  permettere la creazione e la condivisione di schede didattiche su
    diversi argomenti.
-
-permettere di visualizzare la proposta didattica completa;
-
-permettere di visualizzare la proposta didattica completa;
-
-mostrare la descrizione del singolo insegnamento (syllabus);
-
-mostrare la descrizione del singolo insegnamento (syllabus);
-
-permettere la creazione e la condivisione di schede didattiche su
-diversi argomenti.
-
-permettere la creazione e la condivisione di schede didattiche su
-diversi argomenti.
 
 Infine, il sito dovrebbe permettere di fruire di tutte le **attività
 extra-curricolari** della scuola (attivare nuovi progetti, visualizzare
