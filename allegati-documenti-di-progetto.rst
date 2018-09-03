@@ -7,7 +7,7 @@ La tabella seguente raccoglie tutti i documenti relativi al progetto, partendo
 dal bando di gara fino ai più recenti prototipi.
 
 
-.. list-table:: I documenti di progetto
+.. list-table:: I documenti di progetto.
    :widths: 15 10 30
    :header-rows: 1
 
@@ -15,14 +15,6 @@ dal bando di gara fino ai più recenti prototipi.
      - Tipo file
      - Collegamento
    
-   * - Design siti scuole: sintesi de progetto
-     - Google Slides
-     - `Vai al documento <https://docs.google.com/presentation/d/1RcN3BOTEAD8qxEREjXEHC3DZl0JmRBDOdJ_EaWayqOw/edit?usp=sharing>`_
-
-   * - Discussione su Forum Italia
-     - Forum
-     - `Vai alla discussione <https://forum.italia.it/t/design-dei-servizi-digitali-delle-scuole-ricerca-sugli-utenti-prototipazione-e-linee-guida-progettuali/4100 >`_
-
    * - Capitolato di gara
      - Google Doc
      - `Vai al documento <https://docs.google.com/document/d/13GmEfCG7R-mFN71iiHaVxGvpiy4FhRlgRoNJFeL-HMs/edit>`_
@@ -30,6 +22,22 @@ dal bando di gara fino ai più recenti prototipi.
    * - Offerta LCD e BSD
      - Pdf
      - `Vai al documento <https://drive.google.com/file/d/1nnhJGd_qD-A97Varw9gMiVN20AKs2ymW/view?usp=sharing>`_
+
+   * - Design siti scuole: sintesi del progetto
+     - Google Slides
+     - `Vai al documento <https://docs.google.com/presentation/d/1RcN3BOTEAD8qxEREjXEHC3DZl0JmRBDOdJ_EaWayqOw/edit?usp=sharing>`_
+
+   * - Discussione su Forum Italia
+     - Forum
+     - `Vai alla discussione <https://forum.italia.it/t/design-dei-servizi-digitali-delle-scuole-ricerca-sugli-utenti-prototipazione-e-linee-guida-progettuali/4100>`_
+
+   * - Lavori preliminari
+     - Google Doc e Slides
+     - `Workshop (luglio 2017) <https://docs.google.com/presentation/d/1Ub_8vKt_Mof95JNdrnMD43MqUNDOXTsD7NxoIKHrol0/edit?usp=sharing>`_
+
+       `Workshop: funzioni del sito ed esigenze degli utenti <https://docs.google.com/document/d/1zpnhjCGAl_ERY3BRd0GbRX8MYeGovX0V6nHrplM3WdI/edit?usp=sharing>`_
+
+       `Workshop (gennaio 2018) <https://docs.google.com/presentation/d/19bqidc6sxX0jwc1VvqMmHNtS0EpODTx8I4gvXrKr09E/edit?usp=sharing>`_
 
    * - Summary report: Ricerca desk e analisi stakeholder
      - Google Doc
