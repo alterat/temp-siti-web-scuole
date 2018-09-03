@@ -1,0 +1,183 @@
+.. _ricerca-qualitativa:
+
+Ricerca qualitativa
+===================
+
+L'obiettivo di questa fase di ricerca è stato quello di elicitare e
+strutturare i requisiti utente sulla base dei bisogni, delle
+motivazioni, degli obiettivi e delle aspettative degli utenti target di
+progetto.
+
+La metodologia di ricerca si è basata su interviste a un totale di 77
+persone, con tre diverse modalità:
+
+1. interviste individuali;
+
+2. focus group;
+
+3. co-design workshop.
+
+interviste individuali;
+
+interviste individuali;
+
+focus group;
+
+focus group;
+
+co-design workshop.
+
+co-design workshop.
+
+Ciò ha permesso di dividere il campione di persone in gruppi, in base a
+
+-  genere;
+
+-  età;
+
+-  ruolo nella scuola;
+
+-  uso della tecnologia;
+
+-  zona di provenienza.
+
+genere;
+
+genere;
+
+età;
+
+età;
+
+ruolo nella scuola;
+
+ruolo nella scuola;
+
+uso della tecnologia;
+
+uso della tecnologia;
+
+zona di provenienza.
+
+zona di provenienza.
+
++-------------------------------------------------------------------------+
+| **Per approfondire**                                                    |
+|                                                                         |
+| **Il campione preso in esame**                                          |
+|                                                                         |
+| | **GENERE:**                                                           |
+| | n. 27 uomini;                                                         |
+| | n. 50 donne;                                                          |
+| | n. 00 altro.                                                          |
+|                                                                         |
+| | **ETÀ:**                                                              |
+| | n. 4 docenti < 10 anni di esperienza;                                 |
+|                                                                         |
+| | n. 15 docenti > 10 anni di esperienza;                                |
+| | n. 2 personale tecnico-amministrativo < 10 anni di esperienza;        |
+|                                                                         |
+| | n. 16 personale tecnico-amministrativo > 10 anni di esperienza;       |
+| | n. 22 studenti tra i 15 e i 18 anni;                                  |
+| | n. 18 genitori > 40 anni.                                             |
+|                                                                         |
+| | **UTILIZZO DELLA TECNOLOGIA:**                                        |
+| | n. 16 base (es. usa smartphone solo per comunicazione);               |
+| | n. 23 autonomo (es. usa web/app per accedere a servizi);              |
+| | n. 38 avanzato (es. il proprio lavoro si basa su strumenti digitali). |
++-------------------------------------------------------------------------+
+
+**Per approfondire**
+
+**Il campione preso in esame**
+
+| **GENERE:**
+| n. 27 uomini;
+| n. 50 donne;
+| n. 00 altro.
+
+| **ETÀ:**
+| n. 4 docenti < 10 anni di esperienza;
+
+| n. 15 docenti > 10 anni di esperienza;
+| n. 2 personale tecnico-amministrativo < 10 anni di esperienza;
+
+| n. 16 personale tecnico-amministrativo > 10 anni di esperienza;
+| n. 22 studenti tra i 15 e i 18 anni;
+| n. 18 genitori > 40 anni.
+
+| **UTILIZZO DELLA TECNOLOGIA:**
+| n. 16 base (es. usa smartphone solo per comunicazione);
+| n. 23 autonomo (es. usa web/app per accedere a servizi);
+| n. 38 avanzato (es. il proprio lavoro si basa su strumenti digitali).
+
+Maggiori informazioni sulle i `metodologie e sui risultati ottenuti
+durante la fase di
+ricerca <https://docs.google.com/presentation/d/1lelBDDv-VyqK6WE7GLnFp7K0PgZaSxJmMpPoTOp5txw/edit?usp=sharing>`__.
+
+.. _interviste-agli-stakeholder:
+
+Interviste agli stakeholder
+---------------------------
+
+Definire i portatori di interesse (*stakeholder*) all'interno di un
+progetto è fondamentale. Gli *stakeholder* individuati e successivamente
+intervistati fanno parte delle seguenti categorie:
+
+-  Miur;
+
+-  Team per la Trasformazione Digitale e AGID;
+
+-  software house (registri elettronici e altri applicativi);
+
+-  personale tecnico amministrativo;
+
+-  studenti;
+
+-  dirigenti scolastici;
+
+-  insegnanti;
+
+-  animatori digitali;
+
+-  associazioni (Porte aperte sul web).
+
+Miur;
+
+Miur;
+
+Team per la Trasformazione Digitale e AGID;
+
+Team per la Trasformazione Digitale e AGID;
+
+software house (registri elettronici e altri applicativi);
+
+software house (registri elettronici e altri applicativi);
+
+personale tecnico amministrativo;
+
+personale tecnico amministrativo;
+
+studenti;
+
+studenti;
+
+dirigenti scolastici;
+
+dirigenti scolastici;
+
+insegnanti;
+
+insegnanti;
+
+animatori digitali;
+
+animatori digitali;
+
+associazioni (Porte aperte sul web).
+
+associazioni (Porte aperte sul web).
+
+Abbiamo realizzato 12 interviste individuali con dei rappresentanti per
+ciascuna di queste categorie. Ogni intervista è durata tra i 40 e i 60
+minuti.
