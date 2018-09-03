@@ -28,22 +28,6 @@ community, quali
 
 -  kit bootstrap italia.
 
-kit service design;
-
-kit service design;
-
-wireframe kit;
-
-wireframe kit;
-
-ui kit;
-
-ui kit;
-
-kit bootstrap italia.
-
-kit bootstrap italia.
-
 Designers Italia pubblicherà la ricerca sui bisogni del mondo
 scolastico, la definizione dei principali scenari d'uso da realizzare e
 un prototipo di sito scolastico nella forma di interactive wireframe
@@ -60,22 +44,6 @@ framework Bootstrap Italia, in particolare:
 -  sezione news e circolari;
 
 -  sezione didattica.
-
-sezione di presentazione della scuola;
-
-sezione di presentazione della scuola;
-
-sezione presentazione servizi;
-
-sezione presentazione servizi;
-
-sezione news e circolari;
-
-sezione news e circolari;
-
-sezione didattica.
-
-sezione didattica.
 
 In questo modo, a partire da gennaio 2019 i diversi attori del mondo
 scolastico (comunità open source, scuole, software house) potranno
@@ -95,121 +63,63 @@ testare le componenti e le sezioni standard secondo il prototipo:
 
 -  Area personale (messaggi e attività).
 
-Erogazione diretta servizi;
-
-Erogazione diretta servizi;
-
-La mia classe;
-
-La mia classe;
-
-Area personale (messaggi e attività).
-
-Area personale (messaggi e attività).
-
 L'obiettivo potrebbe essere quello di avere 10 scuole con il nuovo sito
 completo entro settembre 2019.
 
 Concretamente, lo sviluppo tecnologico degli scenari presentati in
-precedenza potrebbe essere realizzato secondo la Tabella 7.
+precedenza potrebbe essere realizzato secondo la :numref:`Tabella %s <fasi-sviluppo>`.
 
-*Tabella 7: fasi di sviluppo degli scenari e sezioni del sito a cui
-fanno maggiormente riferimento.*
+.. table:: Fasi di sviluppo degli scenari e sezioni del sito a cui fanno maggiormente riferimento.
+   :name: fasi-sviluppo
 
-+-----------------------+-----------------------+-----------------------+
-| **Scenario**          | **Sezione del sito    | **Fase di sviluppo**  |
-|                       | principalmente        |                       |
-|                       | coinvolta**           |                       |
-+=======================+=======================+=======================+
-| 1. Creazione e        | Circolari e notizie   | Fase 1                |
-| visualizzazione delle |                       |                       |
-| circolari             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 2. Gestione           | Circolari e notizie   | Fase 1                |
-| calendario            |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 3. Moduli di          | Servizi               | Fase 2                |
-| richiesta e           |                       |                       |
-| autorizzazione di un  |                       |                       |
-| servizio/progetto     |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 4. Condivisione       | La didattica          | Fase 1                |
-| materiali didattici   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 5. Proposte progetti  | La didattica          | Fase 1                |
-| "extra"               |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 6. Pagamento di un    | Servizi               | Fase 2                |
-| servizio              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 7. Andamento          | La mia classe         | Fase 2                |
-| scolastico            |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 8. Delega di una      | Servizi               | Fase 2                |
-| persona e             |                       |                       |
-| giustificazione di    |                       |                       |
-| un'assenza            |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 9. Attività della     | La mia classe         | Fase 2                |
-| classe                |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 10. Visualizzazione   | Circolari e notizie   | Fase 1                |
-| bandi                 |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 11. Raccolta feedback | La mia classe         | Fase 2                |
-+-----------------------+-----------------------+-----------------------+
-| 12. Racconto della    | La scuola             | Fase 1                |
-| scuola e delle sue    |                       |                       |
-| attività              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 13. Ex studenti       | La scuola             | Fase 1                |
-+-----------------------+-----------------------+-----------------------+
-| 14. Bisogni educativi | Servizi               | Fase 1                |
-| speciali              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-
-**Scenario**
-**Sezione del sito principalmente coinvolta**
-**Fase di sviluppo**
-1. Creazione e visualizzazione delle circolari
-Circolari e notizie
-Fase 1
-2. Gestione calendario
-Circolari e notizie
-Fase 1
-3. Moduli di richiesta e autorizzazione di un servizio/progetto
-Servizi
-Fase 2
-4. Condivisione materiali didattici
-La didattica
-Fase 1
-5. Proposte progetti "extra"
-La didattica
-Fase 1
-6. Pagamento di un servizio
-Servizi
-Fase 2
-7. Andamento scolastico
-La mia classe
-Fase 2
-8. Delega di una persona e giustificazione di un'assenza
-Servizi
-Fase 2
-9. Attività della classe
-La mia classe
-Fase 2
-10. Visualizzazione bandi
-Circolari e notizie
-Fase 1
-11. Raccolta feedback
-La mia classe
-Fase 2
-12. Racconto della scuola e delle sue attività
-La scuola
-Fase 1
-13. Ex studenti
-La scuola
-Fase 1
-14. Bisogni educativi speciali
-Servizi
-Fase 1
+   +------------------------+---------------------+------------------+
+   | Scenario               | Sezione del sito    | Fase di sviluppo |
+   |                        | principalmente      |                  |
+   |                        | coinvolta           |                  |
+   +========================+=====================+==================+
+   | 1. Creazione e         | Circolari e notizie | Fase 1           |
+   | visualizzazione delle  |                     |                  |
+   | circolari              |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 2. Gestione            | Circolari e notizie | Fase 1           |
+   | calendario             |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 3. Moduli di           | Servizi             | Fase 2           |
+   | richiesta e            |                     |                  |
+   | autorizzazione di un   |                     |                  |
+   | servizio/progetto      |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 4. Condivisione        | La didattica        | Fase 1           |
+   | materiali didattici    |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 5. Proposte progetti   | La didattica        | Fase 1           |
+   | "extra"                |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 6. Pagamento di un     | Servizi             | Fase 2           |
+   | servizio               |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 7. Andamento           | La mia classe       | Fase 2           |
+   | scolastico             |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 8. Delega di una       | Servizi             | Fase 2           |
+   | persona e              |                     |                  |
+   | giustificazione di     |                     |                  |
+   | un'assenza             |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 9. Attività della      | La mia classe       | Fase 2           |
+   | classe                 |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 10. Visualizzazione    | Circolari e notizie | Fase 1           |
+   | bandi                  |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 11\. Raccolta feedback | La mia classe       | Fase 2           |
+   +------------------------+---------------------+------------------+
+   | 12. Racconto della     | La scuola           | Fase 1           |
+   | scuola e delle sue     |                     |                  |
+   | attività               |                     |                  |
+   +------------------------+---------------------+------------------+
+   | 13\. Ex studenti       | La scuola           | Fase 1           |
+   +------------------------+---------------------+------------------+
+   | 14. Bisogni educativi  | Servizi             | Fase 1           |
+   | speciali               |                     |                  |
+   +------------------------+---------------------+------------------+
