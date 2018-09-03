@@ -57,13 +57,13 @@ operazioni collegate.
    |                                   | Adesione alle attività            |
    |                                   | extrascolastiche                  |
    +-----------------------------------+-----------------------------------+
-   | 6. Pagamento di un servizio       | Iscrizione del figlio alla scuola |
+   | 6\. Pagamento di un servizio      | Iscrizione del figlio alla scuola |
    |                                   | scelta (SPID)                     |
    |                                   |                                   |
    |                                   | Prenotazione del servizio di      |
    |                                   | trasporto (pagoPA)                |
    +-----------------------------------+-----------------------------------+
-   | 7. Andamento scolastico           | Visualizzazione andamento         |
+   | 7\. Andamento scolastico          | Visualizzazione andamento         |
    |                                   | scolastico e calendario di classe |
    |                                   |                                   |
    |                                   | Prenotazione colloqui con docenti |
@@ -86,7 +86,7 @@ operazioni collegate.
    |                                   | Organizzazione gruppi di          |
    |                                   | studio/ripetizioni                |
    +-----------------------------------+-----------------------------------+
-   | 10. Bandi e assegnazioni          | Consultazione albo pretorio       |
+   | 10\. Bandi e assegnazioni         | Consultazione albo pretorio       |
    |                                   |                                   |
    |                                   | Ricerca di bandi e decreti        |
    |                                   |                                   |
@@ -125,7 +125,7 @@ operazioni collegate.
    |                                   | Registrazione per la giornata di  |
    |                                   | ritrovo degli alumni              |
    +-----------------------------------+-----------------------------------+
-   | 14. Sostegno                      | Richiesta e ottenimento del       |
+   | 14\. Sostegno                     | Richiesta e ottenimento del       |
    |                                   | docente di sostegno               |
    |                                   |                                   |
    |                                   | Redazione del PEI                 |
