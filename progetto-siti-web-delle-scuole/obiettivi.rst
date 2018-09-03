@@ -12,18 +12,6 @@ obiettivi di ricerca e sviluppo all'interno delle seguenti aree:
 
 3. Gestione ed evoluzione del prototipo.
 
-Ricerca;
-
-Ricerca;
-
-Prototipazione;
-
-Prototipazione;
-
-Gestione ed evoluzione del prototipo.
-
-Gestione ed evoluzione del prototipo.
-
 Le fasi di ricerca e prototipazione hanno beneficiato degli strumenti e
 dei `kit messi a disposizione da Designers
 Italia <https://designers.italia.it/kit/>`__.
