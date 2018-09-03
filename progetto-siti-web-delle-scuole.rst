@@ -26,12 +26,12 @@ vincitrici del bando di gara.
 Consulta il `Capitolato di gara per il
 progetto <https://docs.google.com/document/d/13GmEfCG7R-mFN71iiHaVxGvpiy4FhRlgRoNJFeL-HMs/edit>`__.
 
-Consulta l'\ `offerta di LCD e
+Consulta l\'`offerta di LCD e
 BSD <https://drive.google.com/open?id=1nnhJGd_qD-A97Varw9gMiVN20AKs2ymW>`__,
 vincitrice della gara.
 
 .. toctree::
    :maxdepth: 3
 
-   che-cosè-il-progetto-siti-web-delle-scuole/obiettivi.rst
-   che-cosè-il-progetto-siti-web-delle-scuole/roadmap.rst
+   progetto-siti-web-delle-scuole/obiettivi.rst
+   progetto-siti-web-delle-scuole/roadmap.rst
