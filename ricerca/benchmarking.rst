@@ -5,8 +5,8 @@ Benchmarking
 
 L'attività di *benchmarking*, ovvero la valutazione della situazione
 esistente e il confronto fra varie realtà, ha coinvolto 11 istituti
-italiani (di cui 3 paritari) e 5 europei (vedi le Tabelle :numref:`%s <scuole-italia>` 
-e :numref:`%s <scuole-estero>`).
+italiani (di cui 3 paritari) e 5 europei (vedi la :numref:`Tabella %s <scuole-italia>` 
+e la :numref:`Tabella %s <scuole-estero>`).
 
 .. table:: Lista delle scuole italiane prese in considerazione nella fase di benchmarking.
    name: scuole-italia
