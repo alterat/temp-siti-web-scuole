@@ -12,10 +12,10 @@ Ciascun utente viene etichettato con alcune informazioni identificative
 (nome, genere ed età) e con il ruolo che ricopre nella scuola. Ogni
 personas viene associata a un aggettivo che ne descrive l'attitudine,
 un'area di provenienza e una valutazione delle competenze digitali 
-(vedi la :numref:`Tabella %s <personas>`).
+(vedi la :numref:`Tabella %s <tab-personas>`).
 
 .. table:: Personas.
-   :name: personas
+   :name: tab-personas
 
    +------------+-------------+--------------+-------------+------------------+
    | Ruolo      | Identità    | Descrizione  | Provenienza | Livello digitale |
