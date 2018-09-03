@@ -11,7 +11,7 @@ sezioni più un'area personale, accessibile tramite login.
    :name: ai
 
    +----------------+-----------------------+------------------------------+
-   | **Sezioni**    | **Descrizione**       | **Contenuti**                |
+   | Sezioni        | Descrizione           | Contenuti                    |
    +================+=======================+==============================+
    | Scuola         | Area di presentazione | - Presentazione              |
    |                | della scuola come     |                              |

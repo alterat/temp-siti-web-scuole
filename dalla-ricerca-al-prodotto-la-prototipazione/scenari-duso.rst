@@ -4,15 +4,15 @@ Scenari d'uso
 =============
 
 Gli scenari d'uso che abbiamo individuato illustrano alcune delle operazioni
-tipiche che vengono svolte in un sito scolastico. La :numref:`Tabella %s
-<scenari-duso>` mostra i 14 scenari fin qui sviluppati e la descrizione delle
+tipiche che vengono svolte in un sito scolastico. La :numref:`Tabella %s <scenari-duso>` 
+mostra i 14 scenari fin qui sviluppati e la descrizione delle
 operazioni collegate.
 
 .. table:: Scenari d'uso.
    :name: scenari-duso
 
    +-----------------------------------+-----------------------------------+
-   | **Azioni**                        | **Temi scenario**                 |
+   | Azioni                            | Temi scenario                     |
    +===================================+===================================+
    | 1. Creazione e visualizzazione    | Creazione e invio di una nuova    |
    | delle circolari                   | circolare                         |
