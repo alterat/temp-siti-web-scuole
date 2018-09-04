@@ -1,6 +1,6 @@
-==============================
-Progetto siti web delle scuole
-==============================
+=========================================
+Design dei siti web delle scuole italiane
+=========================================
 
 
 .. highlights::

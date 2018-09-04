@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Progetto siti web delle scuole"
+settings_project_name = "Design dei siti web delle scuole italiane"
 settings_copyright_copyleft = "CC-BY 4.0"
 settings_editor_name = "Team Digitale"
 settings_file_name = 'siti-web-scuole'
