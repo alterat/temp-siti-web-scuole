@@ -50,9 +50,8 @@ permette di "svecchiare" la burocrazia. La :numref:`Figura %s <branding>`
 mostra un esempio di
 branding e menu di navigazione nella versione mobile.
 
-.. figure:: .././media/image7.png
-   :width: 5.23361in
-   :height: 3.44271in
+.. figure:: .././media/navigazione-mobile.jpg
+   :width: 5.3in
    :name: branding
    :alt: Branding, menu di navigavione e area personale
 
