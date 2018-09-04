@@ -10,7 +10,7 @@ Amministrazione, secondo il modello collaborativo di Designers Italia
 che permette a ciascun progetto di contribuire concretamente a un
 sistema di design condiviso.
 
-.. figure:: .././media/image8.png
+.. figure:: .././media/home-page-scuola.png
    :width: 5.81771in
    :height: 3.44037in
    :name: hp-hifi
@@ -29,7 +29,7 @@ racconto della scuola. L'uso di infografiche e la narrazione visiva aiutano,
 invece, a evidenziare numeri e dati, laddove disponibili (vedi 
 la :numref:`Figura %s <hp-2>`).
 
-.. figure:: .././media/image10.png
+.. figure:: .././media/carta-id-scuola.png
    :width: 2.90268in
    :alt: Home page di secondo livello
    :name: hp-2
@@ -51,7 +51,7 @@ mostra un esempio di
 branding e menu di navigazione nella versione mobile.
 
 .. figure:: .././media/navigazione-mobile.jpg
-   :width: 5.3in
+   :width: 5.8in
    :name: branding
    :alt: Branding, menu di navigavione e area personale
 
@@ -64,7 +64,7 @@ Un sistema di indice di pagina permette di scorrere velocemente tra i
 paragrafi delle lunghe schede: l'idea è quella di semplificare la
 lettura dei contenuti il più possibile (vedi la :numref:`Figura %s <servizi>`).
 
-.. figure:: .././media/image4.png
+.. figure:: .././media/servizi.png
    :width: 6.27083in
    :height: 2.88889in
    :name: servizi
