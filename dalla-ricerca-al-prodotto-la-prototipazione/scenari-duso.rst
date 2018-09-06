@@ -90,8 +90,7 @@ operazioni collegate.
    |                                   |                                   |
    |                                   | Ricerca di bandi e decreti        |
    |                                   |                                   |
-   |                                   | Assegnazione incarichi (es.       |
-   |                                   | supplenze)                        |
+   |                                   | Assegnazione incarichi            |
    +-----------------------------------+-----------------------------------+
    | 11. Raccolta feedback e           | Creazione e invio di un sondaggio |
    | autovalutazione                   | per gli studenti                  |
