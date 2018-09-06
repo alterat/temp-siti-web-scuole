@@ -75,5 +75,17 @@ lettura dei contenuti il più possibile (vedi la :numref:`Figura %s <servizi>`).
 
 :ref:`copia link <servizi>`
 
-Esplora il `prototipo hi-fi del sito delle scuole <#>`__.
+Esplora prototipo hi-fi del sito delle scuole:
+- `Version desktop <https://invis.io/6DL5WA43QPX#/316088094_D_-_HP_3-livello_Max_Width_1280-1x>`_
+
+- `Version mobile <https://invis.io/6DL5WA43QPX#/316088097_M_-_HP-1x>`_
+
+
+Per i designer: consulta i prototipi hi-fi dettagliati.
+- `Anteprima <https://invis.io/NRL5W6LKJHV#/313293408_M_-_HP>`_
+
+- `Accesso agli asset su Invision per lo sviluppo (necessario un invito) <https://projects.invisionapp.com/d/main#/projects/prototypes/14604678>`_
+
+
+
 

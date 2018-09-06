@@ -77,6 +77,18 @@ dal bando di gara fino ai più recenti prototipi.
 
        `Area personale completa desktop <https://invis.io/9ML61BP8QRU#/313266484_AP_NEW_Indice_D>`_
 
+   * - Prototipi hi-fi dettagliati
+     - Sketch 
+     - `Anteprima <https://invis.io/NRL5W6LKJHV#/313293408_M_-_HP>`_
+
+       `Accesso Invision completo (necessario un invito) <https://projects.invisionapp.com/d/main#/projects/prototypes/14604678>`_
+
+   * - Concept del prototipo hi-fi
+     - Invision
+     - `Desktop <https://invis.io/6DL5WA43QPX#/316088094_D_-_HP_3-livello_Max_Width_1280-1x>`_
+
+       `Mobile <https://invis.io/6DL5WA43QPX#/316088097_M_-_HP-1x>`_
+
    * - Prototipi hi-fi
      - Sketch
      - `Concept <https://invis.io/6DL5WA43QPX>`_
