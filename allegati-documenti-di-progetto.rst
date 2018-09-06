@@ -39,10 +39,6 @@ dal bando di gara fino ai più recenti prototipi.
 
        `Workshop (gennaio 2018) <https://docs.google.com/presentation/d/19bqidc6sxX0jwc1VvqMmHNtS0EpODTx8I4gvXrKr09E/edit?usp=sharing>`_
 
-   * - Summary report: Ricerca desk e analisi stakeholder
-     - Google Docs
-     - In lavorazione
-
    * - Dettagli dell'attività di benchmarking
      - Foglio di lavoro
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1hHbQxRBy1TkVHoSBqL1GOfympT3nMb5vgAb9PTHTA0s/edit?usp=sharing>`_
