@@ -14,3 +14,4 @@ Hanno collaborato al progetto
 - Oronzo Parlangeli
 - Alex Buriani
 - Alice Melpignano
+- Laura Pison
