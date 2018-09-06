@@ -43,6 +43,14 @@ dal bando di gara fino ai più recenti prototipi.
      - Google Docs
      - In lavorazione
 
+   * - Dettagli dell'attività di benchmarking
+     - Foglio di lavoro
+     - `Vai al documento <https://docs.google.com/spreadsheets/d/1hHbQxRBy1TkVHoSBqL1GOfympT3nMb5vgAb9PTHTA0s/edit?usp=sharing>`_
+
+   * - Sintesi dei risultati del benchmarking
+     - Google Slides
+     - `Vai al documento <https://docs.google.com/presentation/d/1qXIYqJRMFwrxKhYo92BCvxRes63huJU3DHNYY2qI6tE/edit?usp=sharing>`_
+
    * - Report ricerca qualitativa
      - Google Slides
      - `Vai al documento <https://docs.google.com/presentation/d/1lelBDDv-VyqK6WE7GLnFp7K0PgZaSxJmMpPoTOp5txw/edit?usp=sharing>`_
