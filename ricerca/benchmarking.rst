@@ -4,8 +4,8 @@ Benchmarking
 ============
 
 L'attività di *benchmarking*, ovvero la valutazione della situazione
-esistente e il confronto fra varie realtà, ha coinvolto 11 istituti
-italiani (di cui 3 paritari) e 5 europei (vedi la :numref:`Tabella %s <scuole-italia>` 
+esistente e il confronto fra varie realtà, ha coinvolto 14 istituti
+italiani e 5 europei (vedi la :numref:`Tabella %s <scuole-italia>` 
 e la :numref:`Tabella %s <scuole-estero>`).
 
 .. table:: Lista delle scuole italiane prese in considerazione nella fase di benchmarking.
@@ -24,7 +24,7 @@ e la :numref:`Tabella %s <scuole-estero>`).
    +----------------------------------------------+--------------------------+
    | Istituto E. Balducci Pontassieve             | Pontassieve (FI)         |
    +----------------------------------------------+--------------------------+
-   | Istituto comprensivo Don Lorenzo Milani      | Turbigo (MI)             |
+   | Istituto Comprensivo Don Lorenzo Milani      | Turbigo (MI)             |
    +----------------------------------------------+--------------------------+
    | Istituto Comprensivo Statale "E. Crespi"     | Busto Arsizio (MI)       |
    +----------------------------------------------+--------------------------+
@@ -35,6 +35,12 @@ e la :numref:`Tabella %s <scuole-estero>`).
    | IISS Marconi                                 | Padova (PD)              |
    +----------------------------------------------+--------------------------+
    | Istituto Giovanni Paolo II                   | Ostia Lido (RM)          |
+   +----------------------------------------------+--------------------------+
+   | Liceo Statale Eleonora Pimentel Fonseca      | Napoli (NA)              |
+   +----------------------------------------------+--------------------------+
+   | IISS Savoia Benincasa                        | Ancona (AN)              |
+   +----------------------------------------------+--------------------------+
+   | Istituto Comprensivo Scuola-Città Pestalozzi | Firenze (FI)             |
    +----------------------------------------------+--------------------------+
 
 
