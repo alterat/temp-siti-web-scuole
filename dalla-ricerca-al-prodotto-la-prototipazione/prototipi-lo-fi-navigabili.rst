@@ -1,7 +1,7 @@
-.. _prototipo-lo-fi-navigabile-completo:
+.. _prototipi-lo-fi-navigabili:
 
-Prototipo lo-fi navigabile completo
-===================================
+Prototipi lo-fi navigabili
+==========================
 
 I prototipi lo-fi degli scenari descritti nella sezione precedente
 mostrano concretamente i flussi di operazioni che vengono svolte per
@@ -20,8 +20,8 @@ e sono disponibili a questi indirizzi:
    mobile <https://projects.invisionapp.com/share/2BN05NVHDXK#/screens>`__.
 
 È disponibile anche un `prototipo lo-fi completo
-<https://invis.io/SNL5W31PKAD#/316836055_Indice>`_, navigabile sia nell'area
-pubblica che nell'area privata. 
+<https://invis.io/SNL5W31PKAD#/316836055_Indice>`_, navigabile nell'area
+pubblica, nell'area personale e in parte delle funzionalità CMS. 
 
 .. table:: Link ai prototipi lo-fi per i diversi scenari d'uso.
    :name: prototipi-lofi
@@ -45,11 +45,11 @@ pubblica che nell'area privata.
 |                                   | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/308953023>`__                  |
 +-----------------------------------+-----------------------------------+
-| 3. Moduli di richiesta e          | Desktop                           |
-| autorizzazione di un              |                                   |
-| servizio/progetto                 | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/309117022>`__                  |
+| 3. Moduli di richiesta e          | `Mobile <https://projects.invisio |
+| autorizzazione di un              | napp.com/share/2BN05NVHDXK#/scree |
+| servizio/progetto                 | ns/309117022>`__                  |
+|                                   |                                   |
+|                                   |                                   |
 +-----------------------------------+-----------------------------------+
 | 4. Condivisione materiali         | `Desktop <https://projects.invisi |
 | didattici                         | onapp.com/share/KPL5VAUR2DV#/scre |
@@ -59,17 +59,16 @@ pubblica che nell'area privata.
 |                                   | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/308908476>`__                  |
 +-----------------------------------+-----------------------------------+
-| 5. Proposte progetti              | Desktop                           |
-| extrascolastici                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
+| 5. Proposte progetti              | `Mobile <https://projects.invisio |
+| extrascolastici                   | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/310945694>`__                  |
-+-----------------------------------+-----------------------------------+
-| 6\. Pagamento di un servizio      | Desktop                           |
 |                                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
+|                                   |                                   |
++-----------------------------------+-----------------------------------+
+| 6\. Pagamento di un servizio      | `Mobile <https://projects.invisio |
 |                                   | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/308654022>`__                  |
+|                                   |                                   |
 +-----------------------------------+-----------------------------------+
 | 7\. Andamento scolastico          | `Desktop <https://projects.invisi |
 |                                   | onapp.com/share/KPL5VAUR2DV#/scre |
@@ -79,46 +78,46 @@ pubblica che nell'area privata.
 |                                   | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/309176883>`__                  |
 +-----------------------------------+-----------------------------------+
-| 8. Delega di persona / Richiesta  | Desktop                           |
-| di giustificazione                |                                   |
-|                                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
+| 8. Delega di persona / Richiesta  | `Mobile <https://projects.invisio |
+| di giustificazione                | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/309642454>`__                  |
-+-----------------------------------+-----------------------------------+
-| 9. Collaborazione all'interno     | Desktop                           |
-| della classe                      |                                   |
-|                                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/311538877>`__                  |
-+-----------------------------------+-----------------------------------+
-| 10\. Bandi e assegnazioni         | Desktop                           |
 |                                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
+|                                   |                                   |
++-----------------------------------+-----------------------------------+
+| 9. Collaborazione all'interno     | `Mobile <https://projects.invisio |
+| della classe                      | napp.com/share/2BN05NVHDXK#/scree |
+|                                   | ns/311538877>`__                  |
+|                                   |                                   |
+|                                   |                                   |
++-----------------------------------+-----------------------------------+
+| 10\. Bandi e assegnazioni         | `Mobile <https://projects.invisio |
 |                                   | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/310710606>`__                  |
-+-----------------------------------+-----------------------------------+
-| 11. Raccolta feedback e           | Desktop                           |
-| autovalutazione                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/309706193>`__                  |
-+-----------------------------------+-----------------------------------+
-| 12. Racconto della scuola e delle | Desktop                           |
-| sue attività (orientamento in     |                                   |
-| entrata / onboarding)             | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/310192877>`__                  |
-+-----------------------------------+-----------------------------------+
-| 13. Coinvolgimento degli          | Desktop                           |
-| ex-studenti (orientamento in      |                                   |
-| uscita)                           | `Mobile <https://projects.invisio |
-|                                   | napp.com/share/2BN05NVHDXK#/scree |
-|                                   | ns/310446636>`__                  |
-+-----------------------------------+-----------------------------------+
-| 14\. Sostegno                     | Desktop                           |
 |                                   |                                   |
-|                                   | `Mobile <https://projects.invisio |
+|                                   |                                   |
++-----------------------------------+-----------------------------------+
+| 11. Raccolta feedback e           | `Mobile <https://projects.invisio |
+| autovalutazione                   | napp.com/share/2BN05NVHDXK#/scree |
+|                                   | ns/309706193>`__                  |
+|                                   |                                   |
+|                                   |                                   |
++-----------------------------------+-----------------------------------+
+| 12. Racconto della scuola e delle | `Mobile <https://projects.invisio |
+| sue attività (orientamento in     | napp.com/share/2BN05NVHDXK#/scree |
+| entrata / onboarding)             | ns/310192877>`__                  |
+|                                   |                                   |
+|                                   |                                   |
++-----------------------------------+-----------------------------------+
+| 13. Coinvolgimento degli          | `Mobile <https://projects.invisio |
+| ex-studenti (orientamento in      | napp.com/share/2BN05NVHDXK#/scree |
+| uscita)                           | ns/310446636>`__                  |
+|                                   |                                   |
+|                                   |                                   |
++-----------------------------------+-----------------------------------+
+| 14\. Sostegno                     | `Mobile <https://projects.invisio |
 |                                   | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/312530515>`__                  |
+|                                   |                                   |
+|                                   |                                   |
 +-----------------------------------+-----------------------------------+
 

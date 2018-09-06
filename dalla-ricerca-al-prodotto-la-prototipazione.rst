@@ -46,5 +46,5 @@ modello di sito interattivo, fondata su queste linee di azione.
 
    dalla-ricerca-al-prodotto-la-prototipazione/architettura-dellinformazione.rst
    dalla-ricerca-al-prodotto-la-prototipazione/scenari-duso.rst
-   dalla-ricerca-al-prodotto-la-prototipazione/prototipo-lo-fi-navigabile-completo.rst
+   dalla-ricerca-al-prodotto-la-prototipazione/prototipi-lo-fi-navigabili.rst
    dalla-ricerca-al-prodotto-la-prototipazione/prototipo-hi-fi.rst

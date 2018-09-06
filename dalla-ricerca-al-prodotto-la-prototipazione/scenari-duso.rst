@@ -6,7 +6,9 @@ Scenari d'uso
 Gli scenari d'uso che abbiamo individuato illustrano alcune delle operazioni
 tipiche che vengono svolte in un sito scolastico. La :numref:`Tabella %s <scenari>` 
 mostra i 14 scenari fin qui sviluppati e la descrizione delle
-operazioni collegate.
+operazioni collegate. È disponibile anche una `mappa degli scenari 
+<https://drive.google.com/file/d/1Wa7QbNBT3orkwp5r9AjCNK4d1Q60Iv8I/view?usp=sharing>`_,
+distribuiti nel corso di un ipotetico anno scolastico fra le varie *personas*.
 
 .. table:: Scenari d'uso.
    :name: scenari
@@ -134,3 +136,6 @@ operazioni collegate.
 
 Consulta maggiori `dettagli sugli scenari
 d'uso <https://docs.google.com/spreadsheets/d/1s91eLTAsdy3F5t_3LtQNyCzIYiSf7KjyOz5awDJs3v0/edit?usp=sharing>`__.
+
+Consulta la `mappa degli scenari 
+<https://drive.google.com/file/d/1Wa7QbNBT3orkwp5r9AjCNK4d1Q60Iv8I/view?usp=sharing>`_.

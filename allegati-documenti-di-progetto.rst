@@ -63,6 +63,10 @@ dal bando di gara fino ai più recenti prototipi.
      - Foglio di lavoro
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1s91eLTAsdy3F5t_3LtQNyCzIYiSf7KjyOz5awDJs3v0/edit?usp=sharing>`_
 
+   * - Mappa degli scenari
+     - Pdf
+     - `Vai al documento <https://drive.google.com/file/d/1Wa7QbNBT3orkwp5r9AjCNK4d1Q60Iv8I/view?usp=sharing>`_
+
    * - Prototipo lo-fi
      - Sketch
      - `Scenari desktop <https://invis.io/KPL5VAUR2DV>`_
