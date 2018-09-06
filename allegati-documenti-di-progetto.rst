@@ -89,12 +89,6 @@ dal bando di gara fino ai più recenti prototipi.
 
        `Mobile <https://invis.io/6DL5WA43QPX#/316088097_M_-_HP-1x>`_
 
-   * - Prototipi hi-fi
-     - Sketch
-     - `Concept <https://invis.io/6DL5WA43QPX>`_
-
-       `Sviluppo del prototipo <https://projects.invisionapp.com/d/main#/projects/prototypes/14604678>`_
-
    * - Principi guida per il modello di siti delle scuole
      - Google Slides
      - In lavorazione
