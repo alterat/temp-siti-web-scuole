@@ -1,6 +1,7 @@
 .. _hanno-collaborato:
 
 Il team di progetto
+===================
 
 - Lorenzo Fabbri
 - Gianni Sinni
