@@ -82,7 +82,7 @@ quantitativa <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDA
    vendono beni online (32,6%) o scaricano software e programmi diversi  
    da quelli dedicati a scopi ludici (22,3%).                            
                                                                          
-   **Stato dell'arte**                                                   
+   **Ruolo dello smartphone**                                                   
                                                                          
    Restringendo l'analisi sulla specifica conoscenza e fruizione del     
    sito web scolastico, la ricerca mostra che la quasi totalità dei      
@@ -130,7 +130,7 @@ quantitativa <https://docs.google.com/presentation/d/1VLF0QwVGFba7XQppWjdjh2cxDA
       probabilmente più agevole l'uso di un pc o di un tablet, rispetto  
       a quello di uno smartphone.                                        
                                                                          
-   Diventa quindi importante il tema della responsività: nell'intento di 
+   Diventa quindi importante il tema della "responsività": nell'intento di 
    rendere sempre più fruibili gli strumenti web, è necessario offrire   
    una soluzione tecnologica in grado di consentire a tutti i target e,  
    in primo luogo ai primi e principali utilizzatori del portale         
