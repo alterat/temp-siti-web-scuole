@@ -29,12 +29,15 @@ conclusioni di questa fase sono le seguenti:
    :class: admonition-deepening admonition-display-page name-deepening
    :name: approfondimento
 
+   **Primi elementi generali di riflessione**
+
    Nel corso della ricerca, sono emerse le seguenti **considerazioni     
    riguardo ai servizi digitali della scuola**.                          
                                                                          
-   -  I **siti web** soffrono l'assenza di uno standard. Le scuole       
-      devono *reinventare la ruota* ogni volta a livello tecnologico e   
-      di design.                                                         
+   -  I **siti web** soffrono l'assenza di uno standard. Le scuole devono
+      *reinventare la ruota* ogni volta a livello tecnologico e di design.
+      Molte delle procedure della scuola sono basate su carta, dalla
+      compilazione dei moduli all’affissione di informazioni in bacheca.                                                       
                                                                          
    -  **Scuola in chiaro** è un modello ibrido: in parte tentativo di    
       sostituzione dei siti scolastici, in parte tentativo di favorire   

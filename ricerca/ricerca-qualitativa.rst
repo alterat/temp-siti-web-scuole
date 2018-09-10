@@ -69,11 +69,7 @@ Definire i portatori di interesse (*stakeholder*) all'interno di un
 progetto è fondamentale. Gli *stakeholder* individuati e successivamente
 intervistati fanno parte delle seguenti categorie:
 
--  Miur;
-
--  Team per la Trasformazione Digitale e AGID;
-
--  software house (registri elettronici e altri applicativi);
+-  genitori;
 
 -  personale tecnico amministrativo;
 
@@ -85,8 +81,14 @@ intervistati fanno parte delle seguenti categorie:
 
 -  animatori digitali;
 
--  associazioni (Porte aperte sul web).
+-  associazioni (es., Porte aperte sul web);
 
-Abbiamo realizzato 12 interviste individuali con dei rappresentanti per
+-  Miur;
+
+-  Team per la Trasformazione Digitale e AGID;
+
+-  software house (registri elettronici e altri applicativi).
+
+Abbiamo realizzato interviste individuali con dei rappresentanti per
 ciascuna di queste categorie. Ogni intervista è durata tra i 40 e i 60
 minuti.
