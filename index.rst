@@ -5,9 +5,8 @@ Design dei siti web delle scuole italiane
 
 .. highlights::
 
-   Questo documento descrive il processo di costruzione del modello di siti web
-   per le scuole italiane. Definisce i criteri e le modalità di realizzazione e
-   contiene tutti i riferimenti ai documenti più importanti relativi al
+   I risultati della ricerca, la descrizione del design di un modello di siti
+   per le scuole italiane e un riferimento a tutta la documentazione di
    progetto.
 
 
