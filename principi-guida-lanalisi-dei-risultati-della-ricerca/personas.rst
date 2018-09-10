@@ -4,7 +4,7 @@ Personas
 ========
 
 La fase di ricerca qualitativa ha permesso di definire 7 personas,
-ovvero dei possibili utenti del sito, ciascuno con le proprie attitudini
+ovvero dei modelli di utente del sito, ciascuno con le proprie attitudini
 e i propri bisogni. Partire dai bisogni degli utenti è fondamentale per
 definire le funzioni del sito.
 

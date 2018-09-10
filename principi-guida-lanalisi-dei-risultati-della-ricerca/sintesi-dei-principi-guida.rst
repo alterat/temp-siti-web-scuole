@@ -21,13 +21,11 @@ fondamentali del sito che servono a questo scopo:
 
 -  La vita della scuola (diario e notizie)
 
--  La scuola e il territorio
+-  L'organizzazione e gli spazi della scuola
 
--  Gli spazi della scuola
+-  Open day e presentazione digitale della scuola ai potenziali iscritti
 
--  Open day
-
--  Raccolta di feedback
+-  Funzionamento dell’istituto scolastico e delle scuole che ne fanno parte
 
 .. _informazione:
 
@@ -40,13 +38,13 @@ soltanto uno dei tanti canali di comunicazione.
 
 A questo scopo, è necessario che il sito preveda dei moduli per:
 
--  **Creare e visualizzare le circolari**, con funzioni di filtro,
+-  Creare e visualizzare le circolari, con funzioni di filtro,
    preferiti e presa visione.
 
--  **Gestire il calendario e le scadenze**, con funzioni di inserimento
+-  Gestire il calendario e le scadenze, con funzioni di inserimento
    di nuovi eventi e promemoria per scadenze importanti.
 
--  **Comunicare informazioni sulla didattica**, integrando il registro
+-  Comunicare informazioni sulla didattica, integrando il registro
    elettronico con la possibilità di visualizzare voti e comunicazioni
    scuola-famiglia.
 
@@ -61,17 +59,21 @@ attuali (con le inevitabili perdite di tempo che ne seguono) a una
 presentazione unitaria e a una gestione efficiente di tutti gli scambi
 tra scuola e famiglia.
 
-L'idea fondamentale è che la **maggior parte degli scambi avviene
+L'idea fondamentale è che la **maggior parte degli scambi deve avvenire 
 online**. Per esempio, le autorizzazioni per le gite scolastiche o la
 compilazioni di moduli deve essere fatta attraverso il sito.
 
-I **servizi legati alla didattica** possono essere resi accessibili
-online grazie all'integrazione col registro elettronico. Le funzionalità
-tipiche di questo ambito sono, per esempio:
+Anche i **servizi legati alla didattica, compresi quelli legati al diario di
+classe e ai risultati scolastici**, devono essere resi accessibili online
+seguendo le linee guida di design e rispettando l'identità visiva della scuola
+(disponibile nel prototipo). 
+
+La scuola ha bisogno di digitalizzare i propri servizi, spesso ancora legati
+alla compilazione di moduli cartacei e affissioni in bacheca:
 
 -  prenotazione dei colloqui con docenti;
 
--  compilazione e invio di deleghe;
+-  compilazione e invio di autorizzazioni e deleghe;
 
 -  calendario/diario di classe e richiesta di una giustificazione;
 
@@ -85,8 +87,8 @@ tipiche di questo ambito sono, per esempio:
 
 -  orientamento scolastico e alternanza scuola/lavoro;
 
-C'è poi l'importante tema della **prenotazione di servizi e dei relativi
-pagamenti**. In questo caso, è possibile sfruttare l'integrazione con le
+C'è poi l'importante tema del **riconoscimento dell'utente** e dei 
+**pagamenti**. In questo caso, è possibile sfruttare l'integrazione con le
 piattaforme abilitanti (SPID e pagoPA). Ecco alcuni dei casi d'uso
 tipici.
 
@@ -125,27 +127,30 @@ particolare:
    diversi argomenti.
 
 Infine, il sito dovrebbe permettere di fruire di tutte le **attività
-extra-curricolari** della scuola (attivare nuovi progetti, visualizzare
-quelli esistenti) ed eventualmente di effettuare pagamenti attraverso la
-piattaforma pagoPA.
+extra-curricolari** della scuola (attivare nuovi progetti, visualizzare quelli
+esistenti, mostrare i risultati delle attività svolte dagli studenti e dai
+docenti) ed eventualmente di effettuare pagamenti attraverso la piattaforma
+pagoPA.
 
 .. _in-classe:
 
 In classe
 ---------
 
-Il sito della scuola dovrebbe essere il punto di riferimento per tutto
-ciò che riguarda la vita della classe: dall'andamento individuale (voti,
-note e pagelle), al calendario/registro della classe (assenze/presenze),
-fino ai servizi e ai progetti attivati.
+Il sito della scuola dovrebbe essere il punto di riferimento per tutto ciò che
+riguarda la vita della classe: dall'andamento individuale (voti, note e
+pagelle), al calendario/registro della classe (assenze/presenze), fino ai
+servizi e ai progetti attivati. Questo richiede capacità di integrazione di
+applicativi diversi e di uniformazione dei pattern di user interface.
 
 La sezione comunemente chiamata "registro elettronico" dovrebbe
-riflettere l'identità della scuola, essere *responsive* e facile da
+riflettere l'identità visiva della scuola, essere *responsive* e facile da
 navigare. Dovrebbe rispondere a una gamma di bisogni della classe un po'
 più ampia di quella attuale, per esempio prevedendo una rubrica della
 classe, i link al materiale didattico e ai syllabus ufficiali della
 classe.
 
-E dovrebbe essere gestita da famiglie e insegnanti attraverso un'area
-personale (un centro notifiche) che comprenda anche tutti gli altri
-contenuti e servizi che la scuola eroga.
+E dovrebbe essere gestita da famiglie e insegnanti attraverso un'area personale
+(un centro notifiche) che comprenda anche tutti gli altri contenuti e servizi
+che la scuola eroga (creazione di un centro messaggi e di un’area personale
+unica).
