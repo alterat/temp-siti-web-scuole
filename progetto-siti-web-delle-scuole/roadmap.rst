@@ -13,12 +13,12 @@ Roadmap
    ricerca su studenti e genitori).
 
 -  Aprile 2018: avvio della fase di progettazione e test di usabilità
-   (wireframing, prototipo navigabile, ui design, usability test).
+   (wireframing, prototipo navigabile, UI design, usability test).
 
 -  Luglio-settembre 2018: rilascio progressivo della ricerca, del
    prototipo e della relativa documentazione disponibile su Docs Italia.
 
--  Settembre 2018: definizione da parte del sistema scolastico di un
-   modello di sviluppo e coinvolgimento delle community di Designers
-   Italia e Developers Italia.
+-  Ottobre  2018: supporto al sistema scolastico che deve definire un modello
+   di sviluppo e coinvolgimento delle community di Designers Italia e
+   Developers Italia. 
 
