@@ -48,12 +48,9 @@ utilità:
 
 -  gestione degli ingressi e delle uscite.
 
-I voti e il registro di classe sono molto apprezzati, come confermato
-dalla ricerca quantitativa, ma devono essere migliorati. In particolare,
-bisogna creare un centro notifiche / archivio / area personale che
-permetta al cittadino e al personale scolastico di gestire in modo
-integrato informazioni personali e servizi, anche provenienti da
-applicativi diversi.
+Bisogna creare un centro messaggi nell’area personale che permetta al cittadino
+e al personale scolastico di gestire in modo integrato informazioni personali e
+servizi, anche provenienti da applicativi diversi.
 
 .. _sviluppare:
 
@@ -66,7 +63,8 @@ autorizzazione e pagamento di servizi scolastici (laboratori, gite e
 altro); dalla prenotazione dei colloqui fino alla gestione online di
 progetti e attività didattiche che integrano la didattica.
 
-La ricerca evidenzia come una progressiva digitalizzazione dei servizi
-sia un'aspettativa condivisa, a partire dal personale scolastico che
-vorrebbe gestire in modo digitale tutti i processi che prevedono
-iscrizione e pagamento da parte delle famiglie.
+La ricerca evidenzia come una progressiva digitalizzazione dei servizi sia
+un'aspettativa condivisa, a partire dal personale scolastico che vorrebbe
+gestire in modo digitale tutti i processi che prevedono iscrizione e pagamento
+da parte delle famiglie. Questo è possibile solo avviando un processo di
+miglioramento continuo del sito della scuola.
