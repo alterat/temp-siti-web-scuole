@@ -93,6 +93,10 @@ dal bando di gara fino ai più recenti prototipi.
 
        `Mobile <https://invis.io/6DL5WA43QPX#/316088097_M_-_HP-1x>`_
 
+   * - Report della valutazione del concept
+     - Google Docs
+     - `Vai al documento <https://docs.google.com/document/d/18EFUs2YiOMS58iDGonJ131lM4foqIGVVs51NdVKj__0/edit?usp=sharing>`_
+
    * - Principi guida per il modello di siti delle scuole
      - Google Slides
      - In lavorazione

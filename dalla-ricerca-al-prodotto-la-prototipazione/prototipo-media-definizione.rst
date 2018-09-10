@@ -1,13 +1,13 @@
 .. _prototipi-lo-fi-navigabili:
 
-Prototipi lo-fi navigabili
-==========================
+Il prototipo a media definizione
+================================
 
-I prototipi lo-fi degli scenari descritti nella sezione precedente
+I prototipi mid-fi degli scenari descritti nella sezione precedente
 mostrano concretamente i flussi di operazioni che vengono svolte per
-portare a termine i compiti desiderati. L'assenza di dettagli grafici
+portare a termine i compiti desiderati. **L'assenza di dettagli grafici
 permette di concentrarsi sulle operazioni invece che sull'aspetto
-estetico del sito. Abbiamo realizzato due tipi di prototipi, uno per il
+estetico del sito.** Abbiamo realizzato due tipi di prototipi, uno per il
 desktop e uno per mobile, per illustrare il flusso in entrambi i casi.
 
 I prototipi realizzati finora sono elencati nella :numref:`Tabella %s <prototipi-lofi>`,
@@ -19,11 +19,11 @@ e sono disponibili a questi indirizzi:
 -  `lato
    mobile <https://projects.invisionapp.com/share/2BN05NVHDXK#/screens>`__.
 
-È disponibile anche un `prototipo lo-fi completo
+È disponibile anche un `prototipo completo
 <https://invis.io/SNL5W31PKAD#/316836055_Indice>`_, navigabile nell'area
 pubblica, nell'area personale e in parte delle funzionalità CMS. 
 
-.. table:: Link ai prototipi lo-fi per i diversi scenari d'uso.
+.. table:: Link ai prototipi per i diversi scenari d'uso.
    :name: prototipi-lofi
 
 +-----------------------------------+-----------------------------------+
@@ -114,7 +114,7 @@ pubblica, nell'area personale e in parte delle funzionalità CMS.
 |                                   |                                   |
 |                                   |                                   |
 +-----------------------------------+-----------------------------------+
-| 14\. Sostegno                     | `Mobile <https://projects.invisio |
+| 14\. Inclusione                   | `Mobile <https://projects.invisio |
 |                                   | napp.com/share/2BN05NVHDXK#/scree |
 |                                   | ns/312530515>`__                  |
 |                                   |                                   |

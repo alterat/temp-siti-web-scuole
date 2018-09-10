@@ -126,7 +126,7 @@ distribuiti nel corso di un ipotetico anno scolastico fra le varie *personas*.
    |                                   | Registrazione per la giornata di  |
    |                                   | ritrovo degli alumni              |
    +-----------------------------------+-----------------------------------+
-   | 14\. Sostegno                     | Richiesta e ottenimento del       |
+   | 14\. Inclusione                   | Richiesta e ottenimento del       |
    |                                   | docente di sostegno               |
    |                                   |                                   |
    |                                   | Redazione del PEI                 |

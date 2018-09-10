@@ -20,12 +20,12 @@ modello di sito interattivo, fondata su queste linee di azione.
 -  **Visione organica**: il prototipo tratteggia una visione di sito web
    che integra una serie di servizi realizzati da applicativi diversi.
    Le modalità operative (ad esempio: armonizzazione dei front end o
-   approccio basato su api) sono lasciate a una seconda fase di
+   approccio basato su API) sono lasciate a una seconda fase di sviluppo del
    progetto.
 
 -  **Piattaforme abilitanti**: il prototipo tiene conto dell'evoluzione
    delle piattaforme abilitanti come SPID e pagoPA, e
-   dell'opportunità/necessità di utilizzarle in modo diffuso.
+   della necessità di utilizzarle in modo diffuso.
 
 -  **Interfaccia unica di comunicazione**: la necessità di costruire un
    rapporto diretto tra scuola e famiglie si traduce nell'idea di un
@@ -46,5 +46,5 @@ modello di sito interattivo, fondata su queste linee di azione.
 
    dalla-ricerca-al-prodotto-la-prototipazione/architettura-dellinformazione.rst
    dalla-ricerca-al-prodotto-la-prototipazione/scenari-duso.rst
-   dalla-ricerca-al-prodotto-la-prototipazione/prototipi-lo-fi-navigabili.rst
+   dalla-ricerca-al-prodotto-la-prototipazione/prototipo-media-definizione.rst
    dalla-ricerca-al-prodotto-la-prototipazione/prototipo-hi-fi.rst

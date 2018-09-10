@@ -107,3 +107,17 @@ sezioni più un'area personale, accessibile tramite login.
 |                | (pagamenti e altro).  |                               |
 +----------------+-----------------------+-------------------------------+
 
+Il progetto prevede una chiara identificazione e caratterizzazione dei modelli
+di pagina (*content type*) in modo da ridurre il numero di template e strutturare
+il contenuto. 
+
+`Vai alla lista dei content type (*work in progress*) <https://airtable.com/invite/l?inviteId=inv7c5obXAwJN8iFK&inviteToken=72857f31e580514b40778719c31925fc52738da11ed524916f2329cbfaddf22f>`_
+
+Il progetto prevede che tutti i contenuti della scuola siano in relazione tra
+loro attraverso un sistema di etichette (tag) da inserire in fase di
+pubblicazione dei contenuti. In occasione di migrazione del sito verso il nuovo
+modello, sarà utile applicare questa classificazione anche ai principali
+contenuti “storici”. 
+
+`Vai alla lista dei tag da utilizzare <https://docs.google.com/spreadsheets/d/1dq-xtqBCxUDn6CqTu4uT242UiinP3O2BtGUwAbt2JfE/edit?usp=sharing >`_
+
