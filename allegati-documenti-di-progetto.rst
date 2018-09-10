@@ -47,6 +47,10 @@ dal bando di gara fino ai più recenti prototipi.
      - Google Slides
      - `Vai al documento <https://docs.google.com/presentation/d/1qXIYqJRMFwrxKhYo92BCvxRes63huJU3DHNYY2qI6tE/edit?usp=sharing>`_
 
+   * - Report sull'attività di desk research e benchmarking
+     - Google Docs
+     - `Vai al documento <https://docs.google.com/document/d/1IDQ0og4u78nzhfI_tMEsr3EV2LPsyHVEqzAsBLfQzEA/edit?usp=sharing>`_
+
    * - Report ricerca qualitativa
      - Google Slides
      - `Vai al documento <https://docs.google.com/presentation/d/1lelBDDv-VyqK6WE7GLnFp7K0PgZaSxJmMpPoTOp5txw/edit?usp=sharing>`_
@@ -59,11 +63,11 @@ dal bando di gara fino ai più recenti prototipi.
      - Foglio di lavoro
      - In lavorazione
 
-   * - Architettura dell'informazione: classificazione dei contenuti
+   * - Architettura dell'informazione: lista tag per classificazione contenuti
      - Foglio di lavoro
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1dq-xtqBCxUDn6CqTu4uT242UiinP3O2BtGUwAbt2JfE/edit?usp=sharing>`_
 
-   * - Scenari
+   * - Scenari d'uso del servizio
      - Foglio di lavoro
      - `Vai al documento <https://docs.google.com/spreadsheets/d/1s91eLTAsdy3F5t_3LtQNyCzIYiSf7KjyOz5awDJs3v0/edit?usp=sharing>`_
 
@@ -71,7 +75,7 @@ dal bando di gara fino ai più recenti prototipi.
      - Pdf
      - `Vai al documento <https://drive.google.com/file/d/1Wa7QbNBT3orkwp5r9AjCNK4d1Q60Iv8I/view?usp=sharing>`_
 
-   * - Prototipo lo-fi
+   * - Prototipi media definizione
      - Sketch
      - `Scenari desktop <https://invis.io/KPL5VAUR2DV>`_
 

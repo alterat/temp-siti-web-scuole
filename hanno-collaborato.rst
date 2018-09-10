@@ -1,8 +1,8 @@
 .. _hanno-collaborato:
 
-Hanno collaborato al progetto
-=============================
+Il team di progetto
 
+- Lorenzo Fabbri
 - Gianni Sinni
 - Matteo Oliveri
 - Matteo Bencini
@@ -15,3 +15,13 @@ Hanno collaborato al progetto
 - Alex Buriani
 - Alice Melpignano
 - Laura Pison
+- Daniele Tabellini
+- Alberto Torin
+
+Inoltre Giovanni Bajo, Alessandro Ranellucci e Riccardo Iaconelli hanno avviato
+l’attività di supporto allo sviluppo all’interno di Developers Italia.
+
+Il lavoro è frutto della partecipazione dell’intero sistema scolastico. Grazie
+in particolare alle scuole coinvolte direttamente nelle fasi di ricerca e
+valutazione.
+

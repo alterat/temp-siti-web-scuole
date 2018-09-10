@@ -10,15 +10,14 @@ certamente uno sforzo condiviso da parte di tutti gli *stakeholder*
 coinvolti. In particolare, la proposta del nuovo sito deve essere
 valutata e discussa con tutto il sistema scolastico: le scuole, le
 comunità open source, le software house fornitrici degli applicativi di
-registro, il MIUR (Api e Scuola in chiaro).
+registro e altri software, il MIUR (Api e Scuola in chiaro).
 
-A partire da settembre 2018, Designers Italia e Developers Italia
-potranno continuare a supportare il progetto secondo il ruolo attribuito
-alle community degli sviluppatori e designer nell'ambito del Piano
-triennale per l'informatica nella Pubblica Amministrazione.
+A supporto dello sviluppo, Designers Italia mette a disposizione questa
+documentazione e tutti i prototipi associati.
 
-Da un lato, Designers Italia offrirà l'accesso agli strumenti della
-community, quali
+Dall’altro lato, Developers Italia potrà supportare lo sviluppo dei template
+html e lo sviluppo dei temi (funzioni core) per CMS in Drupal, Wordpress e
+Joomla utilizzando il framework Bootstrap Italia, in particolare:
 
 -  kit service design;
 
@@ -63,7 +62,7 @@ testare le componenti e le sezioni standard secondo il prototipo:
 
 -  Area personale (messaggi e attività).
 
-L'obiettivo potrebbe essere quello di avere 10 scuole con il nuovo sito
+L'obiettivo potrebbe essere quello di avere almeno 10 scuole con il nuovo sito
 completo entro settembre 2019.
 
 Concretamente, lo sviluppo tecnologico degli scenari presentati in
